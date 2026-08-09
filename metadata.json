@@ -1,0 +1,7 @@
+{
+  "name": "سلوم للإنارة والأدوات الكهربائية",
+  "description": "نظام إدارة الفواتير والأرشفة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
